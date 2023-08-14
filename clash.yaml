@@ -301,7 +301,6 @@ proxies:
 - {name: 🏁RELAY-172.67.42.141-027, server: fd.shabijichang.com, port: 80, type: vmess, uuid: 7390f4bc-1bf0-42f4-9c4f-0cbc35217ee3, alterId: 0, cipher: auto, skip-cert-verify: true, network: ws, ws-path: /, tls: false, ws-headers: {Host: dj.shabijichang.com}}
 - {name: 🏁RELAY-172.64.168.28-028, server: 172.64.168.28, port: 80, type: vmess, uuid: 5f751c6e-50b1-4797-ba8e-6ffe324a0bce, alterId: 0, cipher: auto, skip-cert-verify: true, network: ws, ws-path: /shirker, tls: false, ws-headers: {Host: dp3.scproxy.top}}
 - {name: 🇳🇴NO-185.90.61.153-029, server: 185.90.61.153, port: 989, type: ss, cipher: aes-256-cfb, password: f8f7aCzcPKbsF8p3}
-- {name: 🇹🇼TW-103.177.33.180-030, server: 103.177.33.180, port: "443/?plugin=v2ray-plugin%3Bv2ray-plugin", type: ss, cipher: chacha20-ietf-poly1305, password: 9e44e9ffe5c2}
 - {name: 🇨🇳CN-120.226.50.89-031, server: 120.226.50.89, port: 47009, type: vmess, uuid: 83a424d8-4bcb-4cee-b016-2c8f1db4a921, alterId: 1, cipher: auto, skip-cert-verify: true, network: tcp, ws-path: /, tls: false, ws-headers: {Host: 120.226.50.89}}
 - {name: 🇺🇸US-192.203.230.183-032, server: 192.203.230.183, port: 443, type: vmess, uuid: 06b464f6-e38f-4ba8-eac3-8914277970dc, alterId: 0, cipher: auto, skip-cert-verify: true, network: ws, ws-path: /06b464f6-e38f-4ba8-eac3-8914277970dc, tls: true, ws-headers: {Host: yg1.mlbldzz.top}}
 - {name: 🇱🇻LV-185.135.86.173-033, server: 185.135.86.173, port: 9040, type: ss, cipher: aes-256-cfb, password: p9z5BVADH2YFs3MN}
