@@ -1,5 +1,3 @@
-proxies:
-<<<<<<< HEAD
 - {name: 🇸🇬SG-13.214.138.96-000, server: kbawssg2.aiopen.cfd, port: 443, type: trojan, password: 3c1f22a0-2aec-46ed-b0ee-9c09b8cafa1d, sni: 4-193-105-141.nhost.00cdn.com, skip-cert-verify: true}
 - {name: 🇯🇵JP-52.198.130.48-001, server: kbawsjp2.aiopen.cfd, port: 443, type: trojan, password: 3c1f22a0-2aec-46ed-b0ee-9c09b8cafa1d, sni: 4-193-105-141.nhost.00cdn.com, skip-cert-verify: true}
 - {name: 🇯🇵JP-54.250.31.101-002, server: kbawsjp1.aiopen.cfd, port: 443, type: trojan, password: 3c1f22a0-2aec-46ed-b0ee-9c09b8cafa1d, skip-cert-verify: true}
@@ -856,4 +854,3 @@ proxies:
 - {name: 🏁RELAY-104.21.63.185-263, server: wxll.e5outllok.me, port: 80, type: vmess, uuid: 3e129870-4e08-4ede-87f1-4235a06c529e, alterId: 0, cipher: auto, skip-cert-verify: true, network: ws, ws-path: /, tls: false, ws-headers: {Host: wxll.e5outllok.me}}
 - {name: 🏁RELAY-104.18.29.109-264, server: bluehost.com, port: 443, type: vmess, uuid: 12eed507-9a58-4ca5-f7af-2871e9aae684, alterId: 0, cipher: auto, skip-cert-verify: true, network: ws, ws-path: /19544, tls: true, ws-headers: {Host: cdntr2.digisport.shop}}
 - {name: 🇺🇸US-216.24.57.1-265, server: 216.24.57.1, port: 443, type: vmess, uuid: a7ee85f4-2528-412e-994f-ce65f54754e4, alterId: 0, cipher: auto, skip-cert-verify: true, network: ws, ws-path: a7ee85f4, tls: true, ws-headers: {Host: dd2.1808.cf}}
->>>>>>> upstream/master
